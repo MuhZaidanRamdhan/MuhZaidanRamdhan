@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying as **Software Engineering** at **STT-NF.**
 - 🌱 I’m currently learning **Laravel**, **Java** and **NodeJS.**
-- 👨‍💻 all of my projects are available at **My Repositories.**
+- 👨‍💻 All of my projects are available at **My Repositories.**
 - 🤝 I’m looking for help with a bug in my code.
 - 📫 Contact me 0857-1940-4786
 
