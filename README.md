@@ -27,7 +27,7 @@
 
 <div align="center">
 
-## Social Media
+## 📱Social Media
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-zaidan-ramdhan-b29646258/" style="text-decoration:none;">
@@ -43,14 +43,7 @@
 <br>
 <br>
 
-## Github Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhZaidanRamdhan&theme=default&hide_border=false" height="180" alt="GitHub stats"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhZaidanRamdhan&theme=default&show_icons=true&hide_border=false&layout=compact" height="180" alt="Top Langs"/>
-<br>
-<br>
-<br>
-
-## About Languages and Tools
+## ♨️ Languages and Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> 
@@ -64,8 +57,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/>
-
 </p>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhZaidanRamdhan&theme=default&show_icons=true&hide_border=false&layout=compact" height="180" alt="Top Langs"/>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
