@@ -13,12 +13,12 @@
 <br>
 <br>
 <br>
+<br>
 
 - 🔭 I’m currently studying as **Software Engineering** at **STT-NF**
 - 🌱 I’m currently learning **Laravel**, **Java** and **NodeJS**
 - 👨‍💻 All of my projects are available at **My Repositories**
-- 🤝 I’m looking for help with a bug in my code
-- 📫 Contact me 0857-1940-4786
+
 
 
 <br>
@@ -46,7 +46,7 @@
 
 ## ♨️ Languages and Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,mysql,php,laravel,figma,git" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,mysql,wordpress,php,laravel,figma,git" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,java" />
 </div>
 <br>
