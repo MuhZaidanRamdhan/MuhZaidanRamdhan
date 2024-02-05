@@ -13,7 +13,7 @@
 <br>
 <br>
 <br>
-<br>
+
 
 - 🔭 I’m currently studying as **Software Engineering** at **STT-NF**
 - 🌱 I’m currently learning **Laravel**, **Java** and **NodeJS**
@@ -24,7 +24,8 @@
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 <div align="center">
 
