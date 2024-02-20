@@ -47,7 +47,7 @@
 
 ## ♨️ Languages and Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,mysql,wordpress,php,laravel,figma,git" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,mysql,react,php,laravel,figma,git" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,java" />
 </div>
 <br>
