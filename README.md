@@ -16,7 +16,7 @@
 
 
 - 🔭 I’m currently studying as **Software Engineering** at **STT-NF**
-- 🌱 I’m currently learning **Laravel**, **Java** and **NodeJS**
+- 🌱 I’m currently learning **Laravel** and **React JS**.
 - 👨‍💻 All of my projects are available at **My Repositories**
 
 
